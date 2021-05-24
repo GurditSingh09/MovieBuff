@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Movie Buff</string>
+    <string name="no_reviews_present">No Reviews Preent!</string>
+    <string name="overview">Overview</string>
+    <string name="no_Reviews_Present">NO REVIEWS PRESENT!!!!</string>
+</resources>
